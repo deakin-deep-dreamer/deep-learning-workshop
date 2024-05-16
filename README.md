@@ -1,1 +1,1 @@
-Machine leanring and deep learning hands on workshop.
+Machine learning and deep learning hands on workshop.
